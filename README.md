@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Full Stack Engineer with **8+ years** of professional experience shipping production-grade web applications for US and UK-based remote companies across **e-commerce automation**, **health tech (HIPAA)**, **fintech**, and **AI-powered systems**.
+Senior Full Stack Engineer with **6+ years** of professional experience shipping production-grade web applications for US and UK-based remote companies across **e-commerce automation**, **health tech (HIPAA)**, **fintech**, and **AI-powered systems**.
 
 I specialize in building scalable, distributed architectures — from high-performance REST and GraphQL APIs on the backend to responsive, pixel-perfect React interfaces on the frontend. Recently expanding into **AI engineering** — building RAG pipelines, LLM-powered applications, and AI automation workflows.
 
