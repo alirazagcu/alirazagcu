@@ -204,6 +204,6 @@ Currently **open to Senior Full Stack, Staff Engineer, Lead Engineer, and AI Eng
 
 ---
 
-⚡ *8 years of professional experience | 1,633 GitHub contributions last year | Available for remote opportunities worldwide*
+⚡ *6 years of professional experience | 1,633 GitHub contributions last year | Available for remote opportunities worldwide*
 
 </div>
