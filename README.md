@@ -30,4 +30,4 @@ scalable web applications across e-commerce and health tech.
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Raza-blue)](https://www.linkedin.com/in/ali-raza-b9ba22156/)
-[![Email](https://img.shields.io/badge/Email-imaliraza112%40gmail.com-red)](mailto:araza0971@gmail.com)
+[![Email](https://img.shields.io/badge/Email-araza0971%40gmail.com-red)](mailto:araza0971@gmail.com)
