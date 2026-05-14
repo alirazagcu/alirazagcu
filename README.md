@@ -138,11 +138,21 @@ Currently **open to Senior Full Stack, Staff Engineer, Lead Engineer, and AI Eng
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazagcu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirazagcu&theme=tokyonight" alt="Ali's GitHub Summary" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alirazagcu&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazagcu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirazagcu&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirazagcu&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirazagcu&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirazagcu&theme=tokyonight&utcOffset=5" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alirazagcu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/alirazagcu)
 
 </div>
 
